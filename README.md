@@ -28,5 +28,5 @@ Recommendations:
 *   Conduct a thorough asset classification exercise.
 
 Report:
-https://github.com/jmcoded0/Security-Audit/blob/main/Controls%20and%20compliance%20checklist%20(My%20Security%20Audit).pdf
 
+[My Security Audit Report](https://github.com/jmcoded0/Security-Audit/blob/main/Controls%20and%20compliance%20checklist%20(My%20Security%20Audit).pdf)
